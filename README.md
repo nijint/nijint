@@ -1,5 +1,6 @@
-<h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆,𝑰𝒎 𝑵𝒊𝒋𝒊𝒏</h1>
+<h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆,𝑰𝒎 𝑵𝒊𝒋𝒊𝒏👋</h1>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒌𝒆𝒆𝒏𝒍𝒚 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, 𝒂𝒏𝒅 𝒄𝒍𝒆𝒂𝒏 𝒄𝒐𝒅𝒆</h3>
+<h3 align="center">𝑶𝒏 𝒂 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝑫𝒆𝒗𝑶𝒑𝒔, 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚, 𝑶𝑺 𝒇𝒖𝒏𝒅𝒂𝒎𝒆𝒏𝒕𝒂𝒍𝒔, 𝒂𝒏𝒅 𝒎𝒂𝒄𝒉𝒊𝒏𝒆 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nijin-t-623510204/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/itsmenijin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tnijin123@gmail.com) 
