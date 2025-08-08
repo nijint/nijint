@@ -1,5 +1,6 @@
 <h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆,𝑰𝒎 𝑵𝒊𝒋𝒊𝒏</h1>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒌𝒆𝒆𝒏𝒍𝒚 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, 𝒂𝒏𝒅 𝒄𝒍𝒆𝒂𝒏 𝒄𝒐𝒅𝒆</h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nijin-t-623510204/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/itsmenijin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tnijin123@gmail.com) 
 
@@ -13,7 +14,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nijint&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
